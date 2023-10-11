@@ -98,7 +98,9 @@ docker-compose exec backend python manage.py collectstatic --noinput
 #### Останавливаем контейнеры:
 ```bash
 docker-compose down -v
-```
+```mast
 
 #### Теперь по адресу http://localhost:8000/admin/ доступна админка.
+
+![q](https://github.com/Kan1elOutis/testTask_bewise/raw/master/be.jpg)
 
