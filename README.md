@@ -17,9 +17,9 @@
 4. Желательно, если при выполнении задания вы будете использовать docker-compose, SqlAalchemy,  пользоваться аннотацией типов.
 
 ### БД с записями
-![be](https://github.com/Kan1elOutis/testTask_bewise/assets/127749939/d32514a5-bafd-4f1a-a86b-558d06b3bc43)
+![be](https://github.com/Kan1elOutis/testTask_bewise/blob/master/be.jpg)
 ### POST запрос на добавление 5 новых вопросов(возвращает последний добавленный вопрос)
-![bew](https://github.com/Kan1elOutis/testTask_bewise/assets/127749939/433ade43-b786-4105-bdc0-bb7b9ab2c25f)
+![bew](https://github.com/Kan1elOutis/testTask_bewise/blob/master/bew.jpg)
 
 ### Запуск проекта
 #### Создаем и активируем виртуальное окружение:
